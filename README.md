@@ -1,8 +1,8 @@
-title: Machine Learning for Acoustic Wildlife Surveys
+# Machine Learning for Acoustic Wildlife Surveys
 
 (work in progress)
 
-# Software
+## Software
 
 * Raven
 * Rainforest Connection Arbimon
@@ -12,7 +12,7 @@ title: Machine Learning for Acoustic Wildlife Surveys
 * Ketos
 * SonoBat
 
-# Papers
+## Papers
 
 Stowell D. Computational bioacoustics with deep learning: a review and roadmap. PeerJ. 2022 Mar 21;10:e13152. doi: 10.7717/peerj.13152. PMID: 35341043; PMCID: PMC8944344.
 
